@@ -1,0 +1,7 @@
+[package]
+name = "sonet-desktop"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sonet-core = { version = "0.1.0", path = "../sonet-core" }
